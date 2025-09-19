@@ -9,19 +9,19 @@ redirect_from:
 
 About Me
 ======
-I am **Leong Yoo Chin (EtherealTide)**, currently pursuing my Bachelor's degree at **Beihang University** in Beijing, China. I am passionate about [您的专业领域，如：computer science, aerospace engineering, etc.]
+I am **Leong Yoo Chin (EtherealTide)**, currently pursuing my Bachelor's degree at **Beihang University** in Beijing, China. I am passionate about Information and Communication Engineering.
 
 My research interests include:
-- [研究兴趣1，如：Machine Learning]
-- [研究兴趣2，如：Computer Vision]
-- [研究兴趣3，如：Deep Learning Applications]
+- Communications-sensing integration
+- AI-Empowered Communication Systems
+- Network Engineering
 
 Current Academic Journey
 ======
 🎓 **Education**
 - Bachelor's Degree Student at Beihang University (2022-Present)
-- Major: [您的专业]
-- Expected Graduation: [预计毕业年份]
+- Major: Electronics and Information Engineering
+- Expected Graduation: 2026
 
 🔬 **Research Experience**
 - [如果有研究经历，在这里描述]
@@ -42,16 +42,8 @@ Recent Activities
 - [短期学术目标]
 - [长期职业规划]
 
-Connect with Me
-======
-Feel free to reach out if you're interested in:
-- Academic collaboration
-- Research discussions
-- Project partnerships
-- General networking
+
 
 You can find my work and updates on [GitHub](https://github.com/EtherealTide) and [Bilibili](https://space.bilibili.com/3493132471634790).
 
 ---
-
-*This website showcases my academic journey, projects, and research interests. Browse through my publications, talks, and portfolio to learn more about my work.*
