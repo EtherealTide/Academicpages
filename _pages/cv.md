@@ -25,6 +25,7 @@ Professional Competitions
 * 2024 RoboCup China Robot Competition and Competition: **National Second Prize**
 * 2025 Beijing Integrated Circuit Design Competition: **Provincial First Prize**
 * 2025 Lanqiao Cup (Python Programming): **Provincial First Prize**, Excellent Python Programming Ability
+
 **Technology Innovation Competitions**
 * 35th Feng Ru Cup Academic Paper Group (First Author): **Second Prize**
 * 35th Feng Ru Cup "Internet Plus" Special Category (First Author): **Second Prize**
