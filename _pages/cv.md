@@ -37,7 +37,7 @@ Professional Competitions
   
 Scholarships & Awards
 ======
-* 2023-2024 Academic Year: **Academic Excellence Scholarship** - Special Prize
+* 2023-2024 Academic Year: **Science and Technology Competition Scholarship** - Special Prize
 * 2023-2024 Academic Year: **Innovation and Entrepreneurship Scholarship** - First Prize
 * 2023-2024 Academic Year: **Academic Excellence Scholarship** - Second Prize
 
