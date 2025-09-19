@@ -17,6 +17,7 @@ collection: posts
 - **Download source code**: 
   - [ET_key-process.c]({{ site.url }}{{ site.baseurl }}/files/key_process.c){:download="key_process.c"}
   - [ET_key-process.h]({{ site.url }}{{ site.baseurl }}/files/key_process.h){:download="key_process.h"}
+
 ## 模块概述
 
 本模块提供了一个完整的按键处理系统，支持多种按键状态检测，包括单击、双击、长按等功能。采用状态机设计，具有良好的抗干扰能力和可扩展性。**特别加强了消抖功能，确保按键检测的稳定性和可靠性。**

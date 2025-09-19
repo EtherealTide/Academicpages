@@ -13,8 +13,9 @@ categories:
 excerpt: "ET-serial_protocol的单片机端实现，附源代码，支持硬件中断和可靠数据传输。详细介绍了协议格式、接口使用和完整的数据收发流程。"
 collection: posts
 ---
-- **Download source code**: [ET_serial_protocol_mcu.c]({{ site.url }}{{ site.baseurl }}/files/serial_protocol.c)[ET_serial_protocol_mcu.h]({{ site.url }}{{ site.baseurl }}/files/serial_protocol.h)
-
+- **Download source code**: 
+  - [ET_serial-protocol_mcu.c]({{ site.url }}{{ site.baseurl }}/files/serial_protocol.c){:download="serial_protocol.c"}
+  - [ET_serial-protocol_mcu.h]({{ site.url }}{{ site.baseurl }}/files/serial_protocol.h){:download="serial_protocol.h"}
 <!-- 保留你的原始内容 -->
 
 ## 1. 协议格式

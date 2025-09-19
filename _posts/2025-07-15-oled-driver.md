@@ -13,7 +13,9 @@ categories:
 excerpt: "ET-OLED实现了单片机端的OLED驱动程序，附源代码，使用IIC协议，支持显示数字、字符串、字符。详细介绍了接口使用和完整的程序流程。"
 collection: posts
 ---
-- **Download source code**: [ET_oled.c]({{ site.url }}{{ site.baseurl }}/files/oled.c)[ET_oled.h]({{ site.url }}{{ site.baseurl }}/files/oled.h)
+- **Download source code**: 
+  - [ET_oled-driver.c]({{ site.url }}{{ site.baseurl }}/files/oled.c){:download="oled.c"}
+  - [ET_oled-driver.h]({{ site.url }}{{ site.baseurl }}/files/oled.h){:download="oled.h"}
 
 <!-- 保留你的原始内容 -->
 

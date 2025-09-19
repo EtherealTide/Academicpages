@@ -12,7 +12,7 @@ categories:
 excerpt: "ET-serial_protocol的电脑端（python）实现，附源代码，支持中断和可靠数据传输。详细介绍了协议格式、接口使用和完整的数据收发流程。"
 collection: posts
 ---
-- **Download source code**: [ET_serial-protocol_pc.py]({{ site.url }}{{ site.baseurl }}/files/serial_protocol_pc.py)
+- **Download source code**: [ET_serial-protocol_pc.py]({{ site.url }}{{ site.baseurl }}/files/serial_protocol_pc.py){:download="serial_protocol_pc.py"}
 <!-- 保留你的原始内容 -->
 
 

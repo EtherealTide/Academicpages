@@ -13,7 +13,7 @@ categories:
 excerpt: "ET-serial_protocol的Maixcam视觉模块端实现，附源代码，支持中断和可靠数据传输。详细介绍了协议格式、接口使用和完整的数据收发流程。"
 collection: posts
 ---
-- **Download source code**: [ET_serial-protocol_maxicam.py]({{ site.url }}{{ site.baseurl }}/files/serial_protocol_MaixCAM.py)
+- **Download source code**: [ET_serial-protocol_maxicam.py]({{ site.url }}{{ site.baseurl }}/files/serial_protocol_MaixCAM.py){:download="serial_protocol_MaixCAM.py"}
 
 ## 1. 协议格式
 
