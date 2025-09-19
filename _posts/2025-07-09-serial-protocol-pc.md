@@ -13,7 +13,7 @@ excerpt: "ET-serial_protocol的电脑端（python）实现，附源代码，支�
 collection: posts
 ---
 - **Download source code**: [ET_serial-protocol_pc.py](https://EtherealTide.github.io/Academicpages/files/serial_protocol_pc.py)
-
+- **PC端Python源代码**: [ET_serial-protocol_pc.py]({{ site.url }}{{ site.baseurl }}/files/serial_protocol_pc.py)
 <!-- 保留你的原始内容 -->
 
 
