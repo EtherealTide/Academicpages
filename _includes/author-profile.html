@@ -165,6 +165,9 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+      {% if author.bilibili %}
+        <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fab fa-bilibili" aria-hidden="true"></i> Bilibili</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
