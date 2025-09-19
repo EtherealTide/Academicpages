@@ -14,7 +14,7 @@ categories:
 excerpt: "ET-key_process的单片机实现，附源代码，实现按键的双击、单机、长按检测。详细介绍了算法思路、流程、接口使用和完整的代码示例。"
 collection: posts
 ---
-
+- **Download source code**: [ET_key-process.c]({{ site.url }}{{ site.baseurl }}/files/key_process.c)[ET_key-process.h]({{ site.url }}{{ site.baseurl }}/files/key_process.h)
 ## 模块概述
 
 本模块提供了一个完整的按键处理系统，支持多种按键状态检测，包括单击、双击、长按等功能。采用状态机设计，具有良好的抗干扰能力和可扩展性。**特别加强了消抖功能，确保按键检测的稳定性和可靠性。**
