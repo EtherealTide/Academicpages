@@ -1,7 +1,7 @@
 ---
 title: "A Cross-Scenario GNSS Spoofing Detection Method Based on Transfer Learning"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-09-30-transfer-learning-trustworthy-PNT
 excerpt: 'This paper presents a novel approach to resource allocation optimization using Quantum Unconstrained Binary Optimization (QUBO) models, significantly improving efficiency in distributed computing environments.'
 date: 2025-09-30

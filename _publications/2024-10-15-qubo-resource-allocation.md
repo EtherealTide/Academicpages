@@ -1,7 +1,7 @@
 ---
 title: "QUBO Model-based Resource Allocation Optimization for Distributed Computing Systems"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-10-15-qubo-resource-allocation
 excerpt: 'This paper presents a novel approach to resource allocation optimization using Quantum Unconstrained Binary Optimization (QUBO) models, significantly improving efficiency in distributed computing environments.'
 date: 2024-10-15
