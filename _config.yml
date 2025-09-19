@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Welcome to my academic portfolio website!" # Update this with the title of your site
+title                    : "Welcome to my personal academic website!" # Update this with the title of your site
 title_separator          : "-"
 name                     : &name "EtherealTide"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
