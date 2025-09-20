@@ -22,27 +22,18 @@ Current Academic Journey
 - Bachelor's Degree Student at Beihang University (2022-Present)
 - Major: Electronics and Information Engineering
 - Expected Graduation: 2026
-
-🔬 **Research Experience**
-- [如果有研究经历，在这里描述]
-- [参与的项目或实验室工作]
+📚 **Academic Goals**
+- Earn a Master's Degree in Academic Studies from Beihang University
+- Apply for a Doctoral Degree at The Hong Kong University of Science and Technology
 
 💻 **Technical Skills**
-- Programming Languages: [如：Python, C++, Java]
-- Frameworks & Tools: [如：TensorFlow, PyTorch, etc.]
-- Other Skills: [其他相关技能]
+- Programming Languages: Python, C, MATLAB, Verilog HDL
+- Tools: Latex, Typora, Zotero, kiCAD, Multisim, STM32CUBEMX
+- Other Interests: OpenWRT, Network Engineering
 
-Recent Activities
-======
 🎯 **Current Focus**
-- [当前正在进行的学习或研究项目]
-- [正在准备的考试或竞赛]
-
-📚 **Academic Goals**
-- [短期学术目标]
-- [长期职业规划]
-
-
+- IELTS & CET-6
+- 2026-MCM
 
 You can find my work and updates on [GitHub](https://github.com/EtherealTide) and [Bilibili](https://space.bilibili.com/3493132471634790).
 
