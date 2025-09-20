@@ -21,7 +21,7 @@ collection: posts
 
 勾选 use as exit node
 
-![图片描述]({{ base_path }}/images/image-20250918121752108.png)
+![图片描述](/images/2025-09-18-Config-Tailscale-ExitNode/image-20250918121752108.png)
 
 如果是灰色，则使用ssh远程连接路由器
 
