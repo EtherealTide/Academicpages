@@ -22,7 +22,7 @@ collection: posts
 
 本模块提供了一个完整的按键处理系统，支持多种按键状态检测，包括单击、双击、长按等功能。采用状态机设计，具有良好的抗干扰能力和可扩展性。**特别加强了消抖功能，确保按键检测的稳定性和可靠性。**
 
-![alt text](image-1.png)
+![图片1](/Academicpages/images/posts/2025-7-11-key-process/image-1.png)
 
 ## 功能特性
 
@@ -59,7 +59,7 @@ collection: posts
 
 ### 状态标志定义
 
-![alt text](image-2.png)
+![图片2](/Academicpages/images/posts/2025-7-11-key-process/image-2.png)
 
 ```c
 #define KEY_HOLD    0x01    // 按键保持按下状态
