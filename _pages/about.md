@@ -22,6 +22,7 @@ Current Academic Journey
 - Bachelor's Degree Student at Beihang University (2022-Present)
 - Major: Electronics and Information Engineering
 - Expected Graduation: 2026
+
 📚 **Academic Goals**
 - Earn a Master's Degree in Academic Studies from Beihang University
 - Apply for a Doctoral Degree at The Hong Kong University of Science and Technology
