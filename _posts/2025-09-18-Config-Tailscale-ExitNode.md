@@ -21,7 +21,7 @@ collection: posts
 
 勾选 use as exit node
 
-<img src="C:\Users\qly24\AppData\Roaming\Typora\typora-user-images\image-20250918121752108.png" alt="image-20250918121752108" style="zoom:33%;" />
+![图片描述]({{ base_path }}/images/image-20250918121752108.png)
 
 如果是灰色，则使用ssh远程连接路由器
 
