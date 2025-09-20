@@ -7,7 +7,7 @@ excerpt: 'This paper presents a novel approach to resource allocation optimizati
 date: 2024-10-15
 venue: 'IEEE International Conference on Pattern Recognition, Intelligent Computing and Information Systems (ICPICS)'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://doi.org/10.1109/ICPICS62053.2024.10796207'
+paperurl: #'https://doi.org/10.1109/ICPICS62053.2024.10796207'
 citation: 'L. Qin, "Resource Allocation Optimization Study of Cloud-Edge-End Collaboration Based on QUBO Model," 2024 IEEE 6th International Conference on Power, Intelligent Computing and Systems (ICPICS), Shenyang, China, 2024, pp. 1154-1161, doi: 10.1109/ICPICS62053.2024.10796207.'
 ---
 
@@ -21,5 +21,5 @@ The core of this article is to construct an effective QUBO model to solve the pr
 * Significant performance improvements over classical methods
 * Practical implementation framework for distributed systems
 
-
+[Download-Paper]({{ site.url }}{{ site.baseurl }}/files/Resource_Allocation_Optimization_Study_of_Cloud-Edge-End_Collaboration_Based_on_QUBO_Model.pdf){:download="Resource_Allocation_Optimization_Study_of_Cloud-Edge-End_Collaboration_Based_on_QUBO_Model.pdf"}
 
