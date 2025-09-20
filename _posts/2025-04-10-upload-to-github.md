@@ -8,7 +8,7 @@ tags:
   - 开发
 categories:
   - Technical Documentation
-excerpt: "使用github进行团队协作开发的配置和教程，包括远程链接、拉取、推送、去校链接等详细的操作步骤。"
+excerpt: "使用github进行团队协作开发的配置和教程，包括远程链接、拉取、推送、取消链接等详细的操作步骤。"
 collection: posts
 ---
 
