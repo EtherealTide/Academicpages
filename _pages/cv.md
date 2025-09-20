@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Engineering, Beihang University, 2026 (expected)
+* B.S. in Electronic and Information Engineering, Beihang University, 2026
 * M.S. in Information and Communication Engineering, Beihang University, 2029 (expected)
 * Ph.D in Artificial Intelligence, The Hong Kong University of Science and Technology, 2033 (expected)
 
