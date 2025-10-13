@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am **Leong Yoo Chin (EtherealTide)**, currently pursuing my Bachelor's degree at **Beihang University** in Beijing, China. I am passionate about Information and Communication Engineering.
+I am **Aether Qin (EtherealTide)**, currently pursuing my Bachelor's degree at **Beihang University** in Beijing, China. I am passionate about Information and Communication Engineering.
 
 My research interests include:
 - Communications-sensing integration
