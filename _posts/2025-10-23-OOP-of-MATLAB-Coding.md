@@ -1,4 +1,19 @@
-# MATLAB 类基础教程：面向对象编程入门
+---
+title: "MATLAB类基础：面向对象编程"
+date: 2025-10-23
+permalink: /posts/2025/10/OOP-of-MATLAB-Coding/
+tags:
+  - MATLAB
+  - 面向对象
+  - 类
+  - Teilscale
+  - 软路由
+categories:
+  - Technical Documentation
+excerpt: "使用MATLAB实现类，从而进行OOP编程，方便整个系统和工程的调试和维护"
+collection: posts
+---
+# 
 
 欢迎！这个文档是为 MATLAB 新手准备的，专注于**类（Class）**的创建和使用。MATLAB 的类让你像写“蓝图”一样定义对象（比如一个“发射机”），包含数据（属性）和操作（方法）。我们用简单语言、步骤和例子解释，不涉及高级话题。
 
