@@ -37,7 +37,7 @@ collection: posts
 conda create -n yolo_arc python=3.10 -y
 conda activate yolo_arc
 conda install -c conda-forge openvino=2025.3.0
-conda install ultralytics
+pip install ultralytics
 ```
 
 ---
